@@ -51,19 +51,6 @@
 
 <hr/>
 
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhrumitcodes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrumitcodes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhrumitcodes&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr/>
-
 <h3>🐍 Contribution Activity</h3>
 
 <p align="center">
