@@ -5,9 +5,6 @@
   <em>Building enterprise software with Java, Spring Boot, AI, and Docker — one project at a time.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhrumitcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <hr/>
 
